@@ -27,7 +27,7 @@
 
 **It's a great privilege of **dscgecb** to contribute at *Hacktoberfest 2021*. All valid pull request will be accepted, this process may take sometime but don't worry.**
 
-**Join our community for more events**
+**Join our community for more events **
 
 [Join GDSC GECB](https://gdsc.community.dev/government-engineering-college-bilaspur/)
 
