@@ -16,7 +16,7 @@
 
 **3) Add code according to your need with proper extension eg `bubble_sort.cpp` `linear_search.py`**
 
-# Some Code Guidelines:
+# Some Code Guidelines :
 1. Variable name should be meaningful.
 2. Use comments in your code.
 3. Your Code must be pretty formated.
@@ -27,7 +27,7 @@
 
 **It's a great privilege of **dscgecb** to contribute at *Hacktoberfest 2021*. All valid pull request will be accepted, this process may take sometime but don't worry.**
 
-**Join our community for more events**
+**Join our community for more events **
 
 [Join GDSC GECB](https://gdsc.community.dev/government-engineering-college-bilaspur/)
 
